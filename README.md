@@ -2,7 +2,7 @@
 <p align="center">💻 Analista de Testes e Qualidade de Software | Automação de testes | Qualidade de Software | SQL | FRONT-END</p>
 
 <p align="center">
-  <a href="[https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/vinicius-domingos-reis-377157198/)">
+<a href="https://www.linkedin.com/in/vinicius-domingos-reis-377157198">Vinicius Domingos Reis</a>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:viniciusdomingosreis@hotmail.com">
@@ -39,3 +39,5 @@
 :::: Banco de Dados Relacionais/Não Relacionais :::::
 PostgreSQL, SQL Server, Firebird, MySQL, MongoDB
 Queries SQL para validação de testes
+
+---
