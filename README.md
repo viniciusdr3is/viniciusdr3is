@@ -41,3 +41,4 @@ PostgreSQL, SQL Server, Firebird, MySQL, MongoDB
 Queries SQL para validação de testes
 
 ---
+:)
