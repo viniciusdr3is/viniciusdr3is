@@ -12,7 +12,7 @@
 
 ---
 
-### 🧑‍💻 About me
+### Sobre:
 - 🧪 Focado em testes de software e qualidade
 -  Em transição de carreira para area de QA - Qualidade e Testes de Software
 -  Atualmente no 4. periodo de graduação em Analise e Desenvolvimento de Sistemas na faculdade UNIPAC em Uberlandândia - MG.
