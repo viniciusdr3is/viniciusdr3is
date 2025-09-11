@@ -13,8 +13,7 @@
 ---
 
 ### Sobre:
-- 🧪 Focado em testes de software e qualidade
--  Em transição de carreira para area de QA - Qualidade e Testes de Software
+- 🧪 Focado em testes de software e qualidade de software
 -  Atualmente no 5. periodo de graduação em Analise e Desenvolvimento de Sistemas na faculdade UNIPAC em Uberlandândia - MG.
 -  15 anos de experiência na area de tecnologia com foco em suporte, implantação de software ERP, Fiscal, PDV e modulo de logistica, oferecendo insights para melhorar continuamente os serviços.
 ---
