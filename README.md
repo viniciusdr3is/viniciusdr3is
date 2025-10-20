@@ -34,10 +34,9 @@
 :::: Integração Contínua e Entrega Contínua (CI/CD) ::::
 - CI/CD aplicadas à automação de testes
 - Experiência básica com configuração de pipelines no GitLab CI para execução de testes automatizados
-
+  
 :::: Banco de Dados Relacionais/Não Relacionais :::::
-PostgreSQL, SQL Server, Firebird, MySQL, MongoDB
-Queries SQL para validação de testes
-
+- PostgreSQL, SQL Server, Firebird, MySQL, MongoDB
+- Queries SQL para validação de testes
 ---
 :)
