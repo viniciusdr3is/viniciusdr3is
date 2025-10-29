@@ -16,7 +16,6 @@
 - 🧪 Focado em testes de software e qualidade de software
 - Analista de QA com experiência em testes manuais e foco em automação de testes End-to-End e testes de API com Postman/JMeter. Tenho vivência na aplicação de conceitos de BDD (Cucumber, Gherkin) e na integração de testes em pipelines de CI/CD (GitLab CI). 
              Com uma base de 15 anos em TI sempre estive próximo dos times de desenvolvimento e usuários finais, o que me ajudou a identificar pontos de melhoria e propor soluções mais eficientes.
-<img width="442" height="77" alt="image" src="https://github.com/user-attachments/assets/478889fd-caa0-4010-904b-42f20af63da4" />
 
 ---
 
