@@ -22,12 +22,16 @@
 ### 🛠️ Tecnologias e Ferramentas
 
 :::: Frameworks e Linguagens de Teste de Software::::
-- Ruby com Cucumber (BDD, escrita de cenários Gherkin)
+- Cucumber (BDD, Gherkin) integrado ao Capybara para automação de testes de interface (E2E)
 - Cypress (automação de testes end-to-end)
-- Postman e JMeter (testes de API e performance)
+- Postman e JMeter (Testes de API e performance, com manipulação de JSON e XML)
+
+:::: Formatos de Dados e Tecnologias ::::
+- JSON, XML, REST APIs
 
 :::: Processos de Qualidade ::::
-- Testes manuais e exploratórios
+- Testes manuais 
+- Testes exploratórios
 - Smoke Test, Testes de Caixa Preta
 - Testes de Aceitação (UAT)
 - Documentação: Casos de Teste, Cenários e Planos de Teste
@@ -35,9 +39,23 @@
 :::: Integração Contínua e Entrega Contínua (CI/CD) ::::
 - CI/CD aplicadas à automação de testes
 - Experiência básica com configuração de pipelines no GitLab CI para execução de testes automatizados
-  
+
 :::: Banco de Dados Relacionais/Não Relacionais :::::
 - PostgreSQL, SQL Server, Firebird, MySQL, MongoDB
 - Queries SQL para validação de testes
+- Conhecimento em formatos de dados como JSON para manipulação em bancos NoSQL
+
+:::: Gestão e Metodologias ::::
+- Metodologias Ágeis com Scrum
+- Gerenciamento de projetos e tarefas com Jira
+
+:::: Desenvolvimento :::: 
+ - Java EE: Conhecimento em persistência de dados com JDBC e Hibernate, e criação de endpoints com Servlets.
+- .NET Framework: Desenvolvimento de aplicações com VB.NET e acesso a banco de dados com ADO.NET.
+- Outras Tecnologias: Desenvolvimento de APIs com Python (Django) e Node.js. Experiência com PHP.
+
+:::: Frontend & Mobile ::::
+ React Native, HTML, CSS, JavaScript, PHP, AJAX, Bootstrap
+
 ---
 :)
